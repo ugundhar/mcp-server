@@ -65,11 +65,4 @@ uv run main.py
 - Folow the below steps (two way to add mcp  configuration for vs code user settings):
 
 
-
-## Project Structure
-- `main.py`: Main server implementation with tools and resources
-- `pyproject.toml`: Project configuration and dependencies
-
-
-## hello ugundhar form mcp and A2A agent to agent
-
+#hello from mcp
